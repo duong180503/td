@@ -1,5 +1,5 @@
 ---
-title: Thầy Bá Phong
+title: TEACHER THREE
 timezone: Asia/Bangkok
 collections:
   posts:
@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
-description: Học để tạo giá trị
+description: SUSAN0175
 theme: minima
 siteurl: http://baphong.com/
 permalink: pretty
